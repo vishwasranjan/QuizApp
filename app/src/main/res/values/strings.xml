@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="correct_answer">Correct</string>
+    <string name="incorrect_answer">Incorrect</string>
+    <string name="correct_toast_msg">Great!!</string>
+    <string name="incorrect_toast_msg">Not Good</string>
+    <string name="q1">A child has more bones then adult?</string>
+    <string name="q2">The currency of France is the Franc?</string>
+    <string name="q3">A woman has walked on the moon?</string>
+    <string name="q4">Lightning can strike in the same place twice?</string>
+    <string name="q5">An octopus has three hearts?</string>
+    <string name="q6">You cannot smell when you are sleeping?</string>
+    <string name="q7">The universe is not expanding?</string>
+    <string name="q8">Only 4 percent of Americans surveyed consider themselves less intelligent than average?</string>
+    <string name="q9">You only use 10 percent of your brain?</string>
+    <string name="q10">More than half of all pilots admit to sleeping on the job?</string>
+</resources>
